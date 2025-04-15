@@ -2,7 +2,7 @@ Speech Understanding Project
 
 ----------------------------
 By:-
-Subod hKant - M23CSA531
+Subodh Kant - M23CSA531
 Syam Krishnan - M23CSA535
 
 ---------------------------
